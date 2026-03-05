@@ -31,7 +31,7 @@ Implications for Next-Generation Computing
 3. Deterministic Logic: Replacing "statistical likelihood" with "mathematical necessity."
 Intellectual Property Notice
 The specific equations and frequency modulation parameters governing the LIM protocol are proprietary. However, the physical manifestations—including the absence of thermal drift and absolute logic stability—can be verified through specific resonance testing.
-———————————-
+
 Technical Verification Protocol
 
 To ensure the validity of the LIM framework, we propose the following metrics for empirical verification:
